@@ -3,6 +3,6 @@
   You should only need to add 1 or 2 lines to accomplish this :)
 """
 def add(a, b):
-  summ = a + b
-  return summ
+  sum = a + b
+  return sum
     
